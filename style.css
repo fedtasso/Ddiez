@@ -262,6 +262,7 @@ p {
 
   .hero-image {
     background-position: center var(--height-header-xl);
+    height: calc(100vh - var(--height-header-xl));
   }
 }
 
